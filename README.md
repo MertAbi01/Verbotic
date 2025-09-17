@@ -13,4 +13,5 @@ Fallstudie 1
 - Konversationsverhalten nötig
 
 # Wichtige Links
+Docs:
 - https://docs.google.com/document/d/11dbaw7N0RF0eog6uKnOLkIH3rroqDxJooq6uJeCih7s/edit?usp=sharing
