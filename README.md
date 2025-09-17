@@ -11,3 +11,6 @@ Fallstudie 1
 # Suche
 - Leichte Anwendung für Nicht-technische Anwender
 - Konversationsverhalten nötig
+
+# Wichtige Links
+- https://docs.google.com/document/d/11dbaw7N0RF0eog6uKnOLkIH3rroqDxJooq6uJeCih7s/edit?usp=sharing
