@@ -1,8 +1,8 @@
 # Verbotic
 
-- Product Owner: Mert
-- Scrum Master: Niklas & Flo
-- Development Team: Tom & Emir
+- **Product Owner**: Mert
+- **Scrum Master:** Niklas & Flo
+- **Development Team:** Tom & Emir
 
 
 Fallstudie 1
