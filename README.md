@@ -1,7 +1,7 @@
 # Verbotic
 
-- **Product Owner**: Mert
-- **Scrum Master:** Niklas & Flo
+- **Product Owner**: Mert & Flo
+- **Scrum Master:** Niklas 
 - **Development Team:** Tom & Emir
 
 
