@@ -1,0 +1,8 @@
+project_id = "ejfjvdtbqduvvbjpgrrm"
+
+[auth]
+enabled = true
+site_url = "https://lovable.dev"
+
+[functions.rag-chat]
+verify_jwt = true
