@@ -1,4 +1,4 @@
-# Welcome to your Lovable project
+# Welcome to your Verbotic project
 
 ## Project info
 
@@ -8,9 +8,9 @@
 
 There are several ways of editing your application.
 
-**Use Lovable**
+**Use Verbotic CONTEXA**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/3c52536d-a035-4963-a572-9844804719a9) and start prompting.
+Simply visit the [Verbotic CONTEXA](https://lovable.dev/projects/3c52536d-a035-4963-a572-9844804719a9) and start prompting.
 
 Changes made via Lovable will be committed automatically to this repo.
 
@@ -62,9 +62,9 @@ This project is built with:
 
 ## How can I deploy this project?
 
-Simply open [Lovable](https://lovable.dev/projects/3c52536d-a035-4963-a572-9844804719a9) and click on Share -> Publish.
+Simply open [Verbotic CONTEXA](https://lovable.dev/projects/3c52536d-a035-4963-a572-9844804719a9) and click on Share -> Publish.
 
-## Can I connect a custom domain to my Lovable project?
+## Can I connect a custom domain to my Verbotic CONTEXA project?
 
 Yes, you can!
 
