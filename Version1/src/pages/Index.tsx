@@ -16,7 +16,7 @@ const Index = () => {
       <div className="container mx-auto px-4 -mt-64 relative z-10">
         <div className="text-center mb-16">
           <h1 className="text-5xl font-bold mb-4 bg-gradient-to-r from-primary to-purple-600 bg-clip-text text-transparent">
-            RAG Assistant
+            Verbotic RAG Assistant
           </h1>
           <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
             Upload your documents and chat with an AI powered by Retrieval-Augmented Generation
