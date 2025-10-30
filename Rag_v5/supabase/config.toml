@@ -1,0 +1,29 @@
+project_id = "ejfjvdtbqduvvbjpgrrm"
+
+[auth]
+enabled = true
+site_url = "https://lovable.dev"
+
+[functions.rag-chat]
+verify_jwt = true
+
+[functions.process-document]
+verify_jwt = false
+
+[functions.voice-to-text]
+verify_jwt = true
+
+[functions.text-to-speech]
+verify_jwt = true
+
+[functions.chat-search]
+verify_jwt = false
+
+[functions.realtime-voice]
+verify_jwt = false
+
+[functions.gemini-realtime]
+verify_jwt = false
+
+[functions.ws-health]
+verify_jwt = false
